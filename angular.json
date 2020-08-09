@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-tour-heroes"
+    }
+  },
+  "defaultProject": "angular-tour-heroes",
+  "cli": {
+    "analytics": "69d9b816-c579-4d49-9c8e-78004dfd5f8b"
+  }
 }
